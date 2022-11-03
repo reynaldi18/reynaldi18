@@ -1,9 +1,5 @@
-<p align="center">
-<a href="#"><img src="https://raw.githubusercontent.com/reynaldi18/Infinity-Scroll/master/screenshot/profile.png" height="400px"/></a>
-
-</p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Reynaldi Pamungkas</h1>
-<h3 align="center">I'm a passionate Flutter and Beginer iOS Developer from Indonesia.</h3>
+<h3 align="center">I'm a passionate Mobile Developer from Indonesia.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -20,10 +16,11 @@
     <a href="https://dart.dev/overview" target="_blank"><img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
     <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/></a>
     <a href="https://www.firebase.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
-    <a href="https://www.firebase.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-    <a href="https://www.firebase.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
     <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.icons8.com/color/48/000000/swift.png"/></a>
     <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.icons8.com/color/48/000000/xcode.png"/></a>
+    <a href="https://developer.android.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-studio.png"/></a>
+    <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
