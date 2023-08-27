@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Mobile development**
+- 🌱 As a **Mobile Developer**, I am experienced in developing innovative and user-friendly mobile applications for both iOS and Android platforms. With a strong command of mobile development frameworks and programming languages such as Dart, Kotlin, Java, and Swift, I am capable of developing high-quality applications that meet client specifications and deliver a seamless user experience.
 
 - 📫 How to reach me **reynaldipamungkas78@gmail.com**
 
