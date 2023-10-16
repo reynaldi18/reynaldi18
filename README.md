@@ -14,7 +14,6 @@
 <p align="left"> 
     <a href="https://www.flutter.dev" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/flutter.png"/> </a>
     <a href="https://dart.dev/overview" target="_blank"><img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
-    <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/></a>
     <a href="https://www.firebase.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
     <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.icons8.com/color/48/000000/swift.png"/></a>
     <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.icons8.com/color/48/000000/xcode.png"/></a>
